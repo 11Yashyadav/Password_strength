@@ -17,7 +17,7 @@ The password strength is determined by checking:
 To run this project locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SwamiTheDev/Password_strength.git
+   git clone https://github.com/11Yashyadav/Password_strength
    ```
 2. Navigate to the project folder:
    ```bash
@@ -54,5 +54,5 @@ G@v3YrP@ssW0rd!98
 
 
 ## Author
-Developed by **SwamiTheDev**.
+Developed by **Yash Yadav**.
 
